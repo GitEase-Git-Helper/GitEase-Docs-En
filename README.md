@@ -116,4 +116,4 @@ If the message appears: **Hi username! You've successfully authenticated**, the 
 
 ## Live Site
 
-[Click here to view the commands directly without explanation](https://example.com)
+[Click here to view the commands directly without explanation](https://git-ease-five.vercel.app/)
